@@ -1,0 +1,25 @@
+.container{
+    background-color: #ff00ff;
+    overflow: hidden;
+    vertical-align: center;
+    width:80;
+}
+nav ul li{
+    
+    display:inline-block;
+}
+.nav-right{
+    float: right;
+}
+.nav-left{
+    float: left;
+}
+.hero{
+    clear: both;
+}
+video{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
