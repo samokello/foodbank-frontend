@@ -1,15 +1,24 @@
 .container{
-    background-color: #ff00ff;
     overflow: hidden;
     vertical-align: center;
-    width:80;
+    width:80%;
+    margin:0 auto;
 }
+nav {
+    background-color: cornsilk;
+}
+
+.nav-content {
+    vertical-align:middle;
+}
+
 nav ul li{
     
     display:inline-block;
 }
 .nav-right{
     float: right;
+    margin-top: 3%;
 }
 .nav-left{
     float: left;
@@ -17,9 +26,28 @@ nav ul li{
 .hero{
     clear: both;
 }
+.forms{
+    float: right;
+    width: 60%;
+    background-color:#298060 ;
+}
 video{
     object-fit: cover;
     width: 100vw;
     height: 100vh;
     position: fixed;
+}
+.images{
+    width: 500px;
+}
+form{
+    margin-top:30px;
+
+}
+
+form div {
+    margin-bottom: 10px;
+}
+.cat1{
+    float:left;
 }
