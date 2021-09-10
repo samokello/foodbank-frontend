@@ -159,11 +159,11 @@ margin-right: 20px;
     font-weight: bold;
 }
 .related-activities{
-    background-color:cornsilk;
+    background-color:rgb(240, 205, 237);
     border: bottom 50px;
     margin-bottom: 30px;
     border-radius: 5px;
-    box-shadow: 5px 4px #134C3F;
+    box-shadow: 8px 5px rgb(240, 205, 237)
 }
 
 .related-activities img {
